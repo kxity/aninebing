@@ -1,2 +1,0 @@
-# aninebing
-GitHub Pages
